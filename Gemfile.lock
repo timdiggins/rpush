@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     rpush (5.2.0)
-      activesupport (>= 5.0)
+      activesupport (>= 4.2)
       jwt (>= 1.5.6)
       multi_json (~> 1.0)
       net-http-persistent
